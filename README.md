@@ -9,11 +9,13 @@ La traducción está pensada para integrarse directamente en el sistema de idiom
 ## 📁 Archivos incluidos
 
 Este proyecto contiene dos archivos:
-
+Client:
 - `client.lang`
 - `meta.lang`
-
-Ambos son necesarios para que el idioma funcione correctamente.
+Server:
+- `server.lang`
+  
+Todos son necesarios para que el idioma funcione correctamente.
 
 ---
 
@@ -30,6 +32,18 @@ Ambos son necesarios para que el idioma funcione correctamente.
 
 - `client.lang`
 - `meta.lang`
+
+4. Si Windows pregunta si quieres reemplazar archivos, acepta.
+   
+6. Ve a la siguiente carpeta de tu PC:
+- `%appdata%\Hytale\install\release\package\game\latest\`
+
+> 💡 Puedes pegar esa ruta directamente en la barra del Explorador de Windows.
+
+3. Copia los dos archivos de este repositorio dentro del Assets.zip en `\Server\Languages\es-ES`:
+
+- `server.lang`
+- `wordlists.lang`
 
 4. Si Windows pregunta si quieres reemplazar archivos, acepta.
 
