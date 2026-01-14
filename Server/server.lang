@@ -1,0 +1,54 @@
+# === assetEditor ===
+assetEditor.messages.unknownItem = Objeto desconocido " {id}"
+assetEditor.messages.unknownModel = Modelo desconocido " {id}"
+assetEditor.messages.failedToDecodeAsset = Error al decodificar recurso:  {message}
+assetEditor.messages.directoryOutsideRoot = El directorio debe estar dentro de la carpeta raíz de recursos.
+assetEditor.messages.unknownAssetIndex = Índice de recurso desconocido.
+assetEditor.messages.unknownAssetType = El tipo de recurso " {assetType}" no existe.
+assetEditor.messages.invalidFileName = Nombre de archivo no válido. Caracteres como <>:"|?*/\\ no están permitidos.
+assetEditor.messages.createAsset.idAlreadyExists = Ya existe un recurso con este ID.
+assetEditor.messages.createDirectory.alreadyExists = Ya existe una carpeta con este nombre.
+assetEditor.messages.usageDenied = ¡No tienes permiso para usar el editor de recursos!
+assetEditor.messages.assetsReadOnly = Los recursos son de solo lectura y no pueden modificarse.
+
+# === assetTypes ===
+assetTypes.AmbienceFX.title = Efectos Ambientales
+assetTypes.ItemDropList.title = Lista de Botín
+assetTypes.EntityEffect.title = Efecto de Entidad
+assetTypes.Environment.title = Entorno
+assetTypes.GameplayConfig.title = Configuración de Juego
+assetTypes.BlockSet.title = Conjunto de Bloques
+assetTypes.Item.title = Objeto
+assetTypes.ModelAsset.title = Modelo
+assetTypes.SoundEvent.title = Evento de Sonido
+assetTypes.Weather.title = Clima
+
+# === benchCategories ===
+benchCategories.workbench.crafting = Fabricación
+benchCategories.workbench.survival = Supervivencia
+benchCategories.workbench.tools = Herramientas
+benchCategories.furniture.storage = Almacenamiento
+benchCategories.furniture.lighting = Iluminación
+benchCategories.furniture.beds = Camas
+benchCategories.farmingbench.farming = Agricultura
+benchCategories.farmingbench.seeds = Semillas
+benchCategories.combatPotions = Pociones de Combate
+benchCategories.portals = Portales
+benchCategories.all = Todo
+
+# === general ===
+general.gamemodes.adventure = Aventura
+general.gamemodes.creative = Creativo
+general.qualities.Common = Común
+general.qualities.Rare = Raro
+general.qualities.Epic = Épico
+general.qualities.Legendary = Legendario
+general.damageCauses.fall = caída
+general.damageCauses.drowning = ahogamiento
+general.damageCauses.explosion = una explosión
+general.killedBy = ¡Fuiste asesinado por  {damageSource}!
+general.playerJoinedWorld =  {username} se ha unido a  {world}
+general.playerLeftWorld =  {username} ha abandonado  {world}
+general.enabled = Activado
+general.disabled = Desactivado
+general.repair.successful = ¡Has reparado tu  {itemName}!
