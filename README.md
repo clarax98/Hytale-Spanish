@@ -12,6 +12,7 @@ Este proyecto contiene dos archivos:
 Client:
 - `client.lang`
 - `meta.lang`
+
 Server:
 - `server.lang`
   
